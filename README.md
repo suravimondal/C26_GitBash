@@ -1,2 +1,4 @@
 # angryBirdsStage2
-Angry Birds stage 2 with Class Inheritance and Images
+Today we are creating the raised platform for positioning
+the slingshot in the game
+
